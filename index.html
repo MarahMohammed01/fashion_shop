@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" href="images/logo.png" type="image/png" />
+  <!-- ====== Boxicons ====== -->
+  <link href="https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css" rel="stylesheet" />
+  <!-- ====== Swiper CSS ====== -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+  <!-- ====== Custom CSS ====== -->
+  <link rel="stylesheet" href="scss/styles.css" />
+  <title>Fashion Shop</title>
+</head>
+
+<body>
+  <!-- ====== Header ====== -->
+  <div id="header_nav"></div>
+  <!-- ====== Hero ====== -->
+  <div class="hero">
+    <div class="row container d-flex">
+      <img src="images/hero-2.jpg" alt="" srcset="">
+      <div class="col">
+        <span class="subtitle">Limited Time Only For Summer</span>
+        <h1>fash<span class="i">i</span>on</h1>
+        <p>LOOK YOUR BEST ON YOUR BEST DAY</p>
+        <button class="btn" id="btn-explore">Explore Now!</button>
+      </div>
+    </div>
+  </div>
+  <!-- ====== Collection ====== -->
+  <div class="section collection">
+    <div class="title">
+      <span>COLLECTION</span>
+      <h2>Our Top Collection</h2>
+    </div>
+    <div class="filters d-flex">
+      <div data-filter="Electric">Electric</div>
+      <div data-filter="Accessories">Accessories</div>
+      <div data-filter="Dresses">Dresses</div>
+      <div data-filter="Tops">Tops</div>
+      <div data-filter="Footwear">Footwear</div>
+    </div>
+
+    <div class="products container">
+      <!-- Slider main container -->
+      <div class="swiper mySwiper">
+        <!-- Additional required wrapper -->
+        <div class="swiper-wrapper" id="products">
+        </div>
+
+        <!-- If we need pagination -->
+        <div class="swiper-pagination"></div>
+
+      </div>
+
+    </div>
+  </div>
+  <!-- ====== New Arrival ====== -->
+  <section class="section new-arrival">
+    <div class="title">
+      <span>NEW ARRIVAL</span>
+      <h2>Latest Collection</h2>
+    </div>
+
+    <div class="row container">
+      <div class="col col-1">
+        <img src="images/poster-1.png" alt="" />
+        <h3>
+          2022 Trends <br />
+          Dresses in lively colors
+        </h3>
+      </div>
+      <div class="col col-2">
+        <img src="images/hero-2.jpg" alt="" />
+        <h3>
+          2022 Trends <br />
+          Dresses in lively colors
+        </h3>
+      </div>
+      <div class="col col-3">
+        <img src="images/hero-1.jpg" alt="" />
+        <h3>
+          2022 Trends <br />
+          Dresses in lively colors <br />
+          <span>Discover More</span>
+        </h3>
+      </div>
+    </div>
+
+
+  </section>
+  <!-- ====== Categories ====== -->
+  <section class="section categories">
+    <div class="title">
+      <span>CATEGORIES</span>
+      <h2>2021 Latest Collection</h2>
+    </div>
+
+    <div class="products container" id="products">
+    </div>
+
+    <div class="button d-flex">
+      <a class="btn loadmore">Load More</a>
+    </div>
+  </section>
+
+  <!-- ====== Statistics ====== -->
+  <section class="section statistics">
+    <div class="title">
+      <span>STATS</span>
+      <h2>Our Statistics</h2>
+    </div>
+    <div class="row container">
+      <div class="col">
+        <div class="icon">
+          <i class="bx bxs-check-square"></i>
+        </div>
+        <h3>Easy Order System</h3>
+        <p>Lorem Ispum is a placeholder text commomly used as a free text.</p>
+      </div>
+      <div class="col">
+        <div class="icon">
+          <i class="bx bxs-user"></i>
+        </div>
+        <h3>On Time Delievery</h3>
+        <p>Lorem Ispum is a placeholder text commomly used as a free text.</p>
+      </div>
+      <div class="col">
+        <div class="icon">
+          <i class="bx bxs-dollar-circle"></i>
+        </div>
+        <h3>Money Back Gaurantee</h3>
+        <p>Lorem Ispum is a placeholder text commomly used as a free text.</p>
+      </div>
+      <div class="col">
+        <div class="icon">
+          <i class="bx bxs-user"></i>
+        </div>
+        <h3>24/7 Customer Support</h3>
+        <p>Lorem Ispum is a placeholder text commomly used as a free text.</p>
+      </div>
+    </div>
+  </section>
+  <!-- ====== Blogs ====== -->
+  <section class="section blog">
+    <div class="title">
+      <span>BLOGS</span>
+      <h2>Latest News</h2>
+    </div>
+
+    <div class="row container">
+      <div class="col">
+        <div class="top">
+          <img src="images/blog1.jpg" alt="" />
+        </div>
+        <div class="bottom">
+          <h3>Trendy</h3>
+          <h4>
+            Lorem Ispum is a placeholder text commomly used as a free text.
+          </h4>
+          <span>13 Aug 2022</span>
+        </div>
+      </div>
+      <div class="col">
+        <div class="top">
+          <img src="images/blog2.jpg" alt="" />
+        </div>
+        <div class="bottom">
+          <h3>Trendy</h3>
+          <h4>
+            Lorem Ispum is a placeholder text commomly used as a free text.
+          </h4>
+          <span>13 Aug 2022</span>
+        </div>
+      </div>
+      <div class="col">
+        <div class="top">
+          <img src="images/blog3.jpg" alt="" />
+        </div>
+        <div class="bottom">
+          <h3>Trendy</h3>
+          <h4>
+            Lorem Ispum is a placeholder text commomly used as a free text.
+          </h4>
+          <span>13 Aug 2022</span>
+        </div>
+      </div>
+    </div>
+  </section>
+  <div id="footer_info"></div>
+
+  <!-- ====== SwiperJs ====== -->
+  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+  <script src="js/product.js"></script>
+  <script src="js/main.js"></script>
+
+</body>
+
+</html>

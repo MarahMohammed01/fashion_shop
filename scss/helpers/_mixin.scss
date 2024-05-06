@@ -1,0 +1,41 @@
+@mixin min-larg-desktops{
+    @media (min-width: 1200px){ @content; }
+}
+@mixin max-desktops-large{
+    @media (max-width: 1199px){ @content; }
+}
+@mixin  max-Laptop-small{
+    @media (max-width: 1023px){ @content; }
+}
+@mixin max-mobile {
+    @media (max-width: 768px){ @content; }
+}
+@mixin max-mobile-small {
+    @media (max-width: 567px){ @content; }
+}
+
+/* overlay */
+@mixin overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
+
+/* prefixed */
+@mixin prefixer($proparety , $value , $prefixes:()){
+    @each $prefix in $prefixes{
+        #{"-" + $prefix + "-" + $proparety}: $value;
+    }
+    #{$proparety}: $value;
+}
+
+/* Animations */
+@mixin keyframePrefix($name) {
+    @-webkit-keyframes #{$name} { @content;}
+    @-moz-keyframes #{$name} { @content;}
+    @-o-keyframes #{$name} { @content;}
+    @-ms-keyframes #{$name} { @content;}
+    @keyframes #{$name} { @content;}
+}

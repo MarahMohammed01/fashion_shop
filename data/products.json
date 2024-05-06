@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Hood - Bubblegum Pink",
+      "price": "130",
+      "url": "./images/product-1.jpg",
+      "type": "Women",
+      "category": "Tops"      
+    },
+    {
+      "id": 2,
+      "title": "Designer Cocktail Dresses",
+      "price": "210",
+      "url": "./images/product-2.jpg",
+      "type": "Women",
+      "category": "Dresses"     
+    },
+    {
+      "id": 3,
+      "title": "Create Your Apple Watch Series 9 Style",
+      "price": "200",
+      "url": "./images/product-3.jpg",
+      "type": "Electric",
+      "category": "Electric"      
+    },
+    {
+      "id": 4,
+      "title": "Men Metal Frame Sunglasses",
+      "price": "250",
+      "url": "./images/product-4.jpg",
+      "type": "Men",
+      "category": "Accessories"
+    },
+    {
+      "id": 5,
+      "title": "Men's Horn Embroidered Color Block Shirt No Tee",
+      "price": "100",
+      "url": "./images/product-5.jpg",
+      "type": "Men",
+      "category": "Tops"
+    },
+    {
+      "id": 6,
+      "title": "Meta Quest 2  — 128 GB",
+      "price": "550",
+      "url": "./images/product-6.jpg",
+      "type": "Electric",
+      "category": "Electric" 
+    },
+    {
+      "id": 7,
+      "title": "Leather Square Bag",
+      "price": "50",
+      "url": "./images/product-7.png",
+      "type": "Women",
+      "category": "Bags" 
+    },
+    {
+      "id": 8,
+      "title": "Lace-up Front Soccer Shoes",
+      "price": "200",
+      "url": "./images/product-8.png",
+      "type": "Men",
+      "category": "Footwear"
+    },
+    {
+      "id": 9,
+      "title": "Stiletto Heeled Court Pumps",
+      "price": "180",
+      "url": "./images/product-9.png",
+      "type": "Women",
+      "category": "Footwear"
+    },
+    {
+      "id": 10,
+      "title": "Wired Mouse For Pc, Mac, LapTop",
+      "price": "300",
+      "url": "./images/product-10.png",
+      "type": "Electric",
+      "category": "Electric" 
+    },
+    {
+      "id": 11,
+      "title": "Apple Airpod Gen 3 Bundle",
+      "price": "700",
+      "url": "./images/product-11.jpg",
+      "type": "Electric",
+      "category": "Electric" 
+    },
+    {
+      "id": 12,
+      "title": "Navy Blue Silicone Strap Sporty Activity Touch Screen Fitness Tracker With Heart Rate, For Daily Life",
+      "price": "500",
+      "url": "./images/product-12.png",
+      "type": "Electric",
+      "category": "Electric"
+    },
+    {
+      "id": 13,
+      "title": "MacBook Pro 13.6-inch Liquid Retina Display With Apple M2 chip",
+      "price": "900",
+      "url": "./images/product-13.png",
+      "type": "Electric",
+      "category": "Electric"
+    },
+    {
+      "id": 14,
+      "title": "Red Silicone Strap Sporty Activity Touch Screen Fitness Tracker With Heart Rate, For Daily Life",
+      "price": "500",
+      "url": "./images/product-14.png",
+      "type": "Electric",
+      "category": "Electric"
+    },
+    {
+      "id": 15,
+      "title": "Wireless Controller, Compatible With Playstation 4",
+      "price": "250",
+      "url": "./images/product-15.png",
+      "type": "Electric",
+      "category": "Electric"
+    },
+    {
+      "id": 16,
+      "title": "Apple iPhone 13 (64 GB)",
+      "price": "350",
+      "url": "./images/product-16.png",
+      "type": "Electric",
+      "category": "Electric"
+    },
+    {
+      "id": 17,
+      "title": "ZLQQ Off The Shoulder Satin Prom Dress Long for Women Formal Evening Ball Gown with Pockets",
+      "price": "320",
+      "url": "./images/product-17.jpg",
+      "type": "Women",
+      "category": "Dresses"     
+    },
+    {
+      "id": 18,
+      "title": "Women's Elegant Fashion Banquet Dress Large Swing Dresses",
+      "price": "180",
+      "url": "./images/product-18.jpg",
+      "type": "Women",
+      "category": "Dresses"     
+    },
+    {
+      "id": 19,
+      "title": "Eryr Long Sleeves Knee Length",
+      "price": "235",
+      "url": "./images/product-19.jpg",
+      "type": "Women",
+      "category": "Dresses"     
+    },
+    {
+      "id": 20,
+      "title": "vintage Dress - Short Dress",
+      "price": "160",
+      "url": "./images/product-20.jpg",
+      "type": "Women",
+      "category": "Dresses"     
+    },
+    {
+      "id": 21,
+      "title": "Long sleeves - Cap Collar Vintage Swing Stretchy Dresses - Black Color",
+      "price": "210",
+      "url": "./images/product-21.jpg",
+      "type": "Women",
+      "category": "Dresses"     
+    },
+    {
+      "id": 22,
+      "title": "New Look Pointed Block Heel Boot",
+      "price": "120",
+      "url": "./images/product-22.jpg",
+      "type": "Women",
+      "category": "Footwear"
+    },
+    {
+      "id": 23,
+      "title": "Horsebit Decor Slingback Loafers",
+      "price": "120",
+      "url": "./images/product-23.jpg",
+      "type": "Women",
+      "category": "Footwear"
+    },
+    {
+      "id": 24,
+      "title": "Knoos Men's Loafer",
+      "price": "120",
+      "url": "./images/product-24.jpg",
+      "type": "Men",
+      "category": "Footwear"
+    },
+    {
+      "id": 25,
+      "title": "Kids Floral Prints",
+      "price": "120",
+      "url": "./images/product-25.jpg",
+      "type": "Kids",
+      "category": "Dresses"
+    }
+  ]
+}

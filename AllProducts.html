@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="images/logo.png" type="image/png" />
+    <!-- ====== Boxicons ====== -->
+    <link href="https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css" rel="stylesheet" />
+    <!-- ====== Swiper CSS ====== -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"
+        integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- ====== Custom CSS ====== -->
+    <link rel="stylesheet" href="scss/styles.css" />
+    <title>Fashion Shop</title>
+</head>
+<body>
+    <div id="header_nav"></div>
+    <div class="section categories" id="categories_is_hide">
+        <div class="title">
+            <span>Our Products</span>
+        </div>
+        <div class="filters d-flex">
+            <div data-filter="Women">WOMEN</div>
+            <div data-filter="Kids">KIDS</div>
+            <div data-filter="Men">MEN</div>
+            <div data-filter="Electric">ELECTRIC</div>
+        </div>
+        <div class="products container" id="products">
+        </div>
+    </div>
+    <div id="content"></div>
+    <div id="footer_info"></div>
+
+    <script src="./js/FilterAllProducts.js"></script>
+    <script src="./js/main.js"></script>
+</body>
+
+</html>
