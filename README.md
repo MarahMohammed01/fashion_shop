@@ -1,2 +1,2 @@
 # fashion_shop
-Fashion Shop using HTML, SCSS, JS
+Responsive Fashion Shop Website Template with HTML, SCSS & JavaScript 
