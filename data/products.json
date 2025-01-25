@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Hood - Bubblegum Pink",
       "price": "130",
-      "url": "./images/product-1.jpg",
+      "url": "./images/product-1.png",
       "type": "Women",
       "category": "Tops"      
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "title": "Designer Cocktail Dresses",
       "price": "210",
-      "url": "./images/product-2.jpg",
+      "url": "./images/product-2.png",
       "type": "Women",
       "category": "Dresses"     
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "title": "Create Your Apple Watch Series 9 Style",
       "price": "200",
-      "url": "./images/product-3.jpg",
+      "url": "./images/product-3.png",
       "type": "Electric",
       "category": "Electric"      
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "title": "Men Metal Frame Sunglasses",
       "price": "250",
-      "url": "./images/product-4.jpg",
+      "url": "./images/product-4.png",
       "type": "Men",
       "category": "Accessories"
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "title": "Men's Horn Embroidered Color Block Shirt No Tee",
       "price": "100",
-      "url": "./images/product-5.jpg",
+      "url": "./images/product-5.png",
       "type": "Men",
       "category": "Tops"
     },
@@ -44,7 +44,7 @@
       "id": 6,
       "title": "Meta Quest 2  — 128 GB",
       "price": "550",
-      "url": "./images/product-6.jpg",
+      "url": "./images/product-6.png",
       "type": "Electric",
       "category": "Electric" 
     },
@@ -84,7 +84,7 @@
       "id": 11,
       "title": "Apple Airpod Gen 3 Bundle",
       "price": "700",
-      "url": "./images/product-11.jpg",
+      "url": "./images/product-11.png",
       "type": "Electric",
       "category": "Electric" 
     },
@@ -132,7 +132,7 @@
       "id": 17,
       "title": "ZLQQ Off The Shoulder Satin Prom Dress Long for Women Formal Evening Ball Gown with Pockets",
       "price": "320",
-      "url": "./images/product-17.jpg",
+      "url": "./images/product-17.png",
       "type": "Women",
       "category": "Dresses"     
     },
@@ -140,7 +140,7 @@
       "id": 18,
       "title": "Women's Elegant Fashion Banquet Dress Large Swing Dresses",
       "price": "180",
-      "url": "./images/product-18.jpg",
+      "url": "./images/product-18.png",
       "type": "Women",
       "category": "Dresses"     
     },
@@ -148,7 +148,7 @@
       "id": 19,
       "title": "Eryr Long Sleeves Knee Length",
       "price": "235",
-      "url": "./images/product-19.jpg",
+      "url": "./images/product-19.png",
       "type": "Women",
       "category": "Dresses"     
     },
@@ -156,7 +156,7 @@
       "id": 20,
       "title": "vintage Dress - Short Dress",
       "price": "160",
-      "url": "./images/product-20.jpg",
+      "url": "./images/product-20.png",
       "type": "Women",
       "category": "Dresses"     
     },
@@ -164,7 +164,7 @@
       "id": 21,
       "title": "Long sleeves - Cap Collar Vintage Swing Stretchy Dresses - Black Color",
       "price": "210",
-      "url": "./images/product-21.jpg",
+      "url": "./images/product-21.png",
       "type": "Women",
       "category": "Dresses"     
     },
@@ -172,7 +172,7 @@
       "id": 22,
       "title": "New Look Pointed Block Heel Boot",
       "price": "120",
-      "url": "./images/product-22.jpg",
+      "url": "./images/product-22.png",
       "type": "Women",
       "category": "Footwear"
     },
@@ -180,7 +180,7 @@
       "id": 23,
       "title": "Horsebit Decor Slingback Loafers",
       "price": "120",
-      "url": "./images/product-23.jpg",
+      "url": "./images/product-23.png",
       "type": "Women",
       "category": "Footwear"
     },
@@ -188,7 +188,7 @@
       "id": 24,
       "title": "Knoos Men's Loafer",
       "price": "120",
-      "url": "./images/product-24.jpg",
+      "url": "./images/product-24.png",
       "type": "Men",
       "category": "Footwear"
     },
@@ -196,7 +196,7 @@
       "id": 25,
       "title": "Kids Floral Prints",
       "price": "120",
-      "url": "./images/product-25.jpg",
+      "url": "./images/product-25.pmg",
       "type": "Kids",
       "category": "Dresses"
     }
